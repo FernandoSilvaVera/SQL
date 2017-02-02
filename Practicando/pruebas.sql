@@ -15,5 +15,5 @@ CREATE TABLE PERSONA (
 
 );
 
-INSERT INTO PERSONA(nombre,apellidos)
-	    VALUES ('Fernando','Silva');
+INSERT INTO PERSONA(id,nombre,apellidos)
+	    VALUES ('1','Fernando','Silva');
