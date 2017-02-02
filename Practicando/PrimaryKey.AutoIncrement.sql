@@ -8,12 +8,18 @@ DROP TABLE IF EXISTS PERSONA;
 
 CREATE TABLE PERSONA (
 
-	id INTEGER NOT NULL 
+	id INTEGER NOT NULL auto_increment ,
 	nombre VARCHAR (15) NOT NULL,
-	apellidos VARCHAR(15) NOT NULL default 'No tiene'
-	
+	apellidos VARCHAR(15) NOT NULL,
+	PRIMARY KEY (id)
 
 );
 
 INSERT INTO PERSONA(nombre,apellidos)
 	    VALUES ('Fernando','Silva');
+
+INSERT INTO PERSONA(nombre,apellidos)
+	    VALUES ('Xavier','Vera');
+
+
+
