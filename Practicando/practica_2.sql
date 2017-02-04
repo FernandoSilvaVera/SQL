@@ -287,15 +287,15 @@ DROP TABLE IF EXISTS COMPRAS;
 
 	CREATE TABLE COMPRAS(
 
-		DNI_CLIENTES CHAR (9) NOT NULL,
-		Nombre_tienda VARCHAR (20) NOT NULL,
+		DNI_Cliente CHAR (9) NOT NULL,
+		Nombre_Tienda VARCHAR (20) NOT NULL,
 		Marca_MOVIL_OFERTAS VARCHAR (20) NOT NULL,
 		Modelo_MOVIL_OFERTAS VARCHAR (20) NOT NULL,
 		Dia ENUM ('Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Reservado') NOT NULL DEFAULT 'Reservado',
-		FOREIGN KEY (DNI_CLIENTES)
+		FOREIGN KEY (DNI_Cliente)
 			REFERENCES CLIENTES (DNI),
 			
-		FOREIGN KEY (Nombre_tienda)
+		FOREIGN KEY (Nombre_Tienda)
 			REFERENCES TIENDAS (Nombre),
 
 		FOREIGN KEY (Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS)
@@ -303,42 +303,74 @@ DROP TABLE IF EXISTS COMPRAS;
 
 	);
 
-	INSERT INTO COMPRAS(DNI_CLIENTES,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	INSERT INTO COMPRAS(DNI_CLIENTE,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
 
 		Values ('02478542Q','Phone Another','Airis','TM-500','Lunes');
 		
-	INSERT INTO COMPRAS(DNI_CLIENTES,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	INSERT INTO COMPRAS(DNI_CLIENTE,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
 
 		Values ('04897548A','Phone Kirito','Apple','IPhone 7 Plus','Miercoles');
 		
-	INSERT INTO COMPRAS(DNI_CLIENTES,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS)
+	INSERT INTO COMPRAS(DNI_CLIENTE,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS)
 
 		Values ('15784589A','Phone luffy','Samsung','Galaxy J5');
 	
-	INSERT INTO COMPRAS(DNI_CLIENTES,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	INSERT INTO COMPRAS(DNI_CLIENTE,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
 
 		Values ('15784894A','Phone Rias','Acer','Liquid Z220','Sabado');
 		
-	INSERT INTO COMPRAS(DNI_CLIENTES,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	INSERT INTO COMPRAS(DNI_CLIENTE,Nombre_tienda,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
 
 		Values ('45378458P','Phone yunyun','Huawei','P8 Lite','Martes');
 		
+DROP TABLE IF EXISTS CONTRATOS;
+
+	CREATE TABLE CONTRATOS(
+
+		DNI_Cliente CHAR (9) NOT NULL,
+		Nombre_Tienda VARCHAR (20) NOT NULL,
+		Nombre_OPERADORAS_TARIFAS_OFERTAS VARCHAR (20) NOT NULL,
+		Nombre_TARIFAS_OFERTAS VARCHAR (20) NOT NULL,
+		Marca_MOVIL_OFERTAS VARCHAR(20) NOT NULL, 
+		Modelo_MOVIL_OFERTAS VARCHAR (20) NOT NULL,
+		Dia ENUM ('Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Reservado') NOT NULL,
+
+		FOREIGN KEY (DNI_Cliente)
+			REFERENCES CLIENTES (DNI),
+	
+		FOREIGN KEY (Nombre_Tienda)
+			REFERENCES TIENDAS(Nombre),
+
+		FOREIGN KEY (Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS)
+			REFERENCES OFERTAS(Nombre_OPERADORAS_TARIFAS,Nombre_TARIFAS),
+
+		FOREIGN KEY (Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS)
+			REFERENCES OFERTAS (Marca_MOVIL_CONTRATO,Modelo_MOVIL_CONTRATO)
 
 
+	);
 
+	 INSERT INTO CONTRATOS(DNI_Cliente,Nombre_Tienda,Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	
+		VALUES ('02478542Q','Phone yunyun','Lowi','Perro','Huawei','P8 Lite','Lunes');
 
+	 INSERT INTO CONTRATOS(DNI_Cliente,Nombre_Tienda,Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	
+		VALUES ('04897548A','Phone Kirito','Ono','Neko','Acer','Liquid Z220','Sabado');
 
+	 INSERT INTO CONTRATOS(DNI_Cliente,Nombre_Tienda,Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	
+		VALUES ('15784589A','Phone Another','Lowi','Perro','Huawei','P8 Lite','Martes');
 
+	 INSERT INTO CONTRATOS(DNI_Cliente,Nombre_Tienda,Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	
+		VALUES ('15784589A','Phone luffy','Vodafone','Ballena','Huawei','P8 Lite','Lunes');
 
+	 INSERT INTO CONTRATOS(DNI_Cliente,Nombre_Tienda,Nombre_OPERADORAS_TARIFAS_OFERTAS,Nombre_TARIFAS_OFERTAS,Marca_MOVIL_OFERTAS,Modelo_MOVIL_OFERTAS,Dia)
+	
+		VALUES ('02478542Q','Phone yunyun','Lowi','Perro','Apple','IPhone 7 Plus','Martes');
 
-
-
-
-
-
-
-
-
+		
 
 
 
