@@ -14,7 +14,8 @@ DROP TABLE IF EXISTS CLIENTES;
 		Apellidos VARCHAR(20) NOT NULL,
 		Telefono INTEGER (9) NOT NULL,
 		Email VARCHAR(30) NOT NULL,
-		PRIMARY KEY (DNI)
+		PRIMARY KEY (DNI),
+		UNIQUE KEY (Telefono)
 
 	);
 
@@ -51,8 +52,8 @@ DROP TABLE IF EXISTS TIENDAS;
 		DiaCierre VARCHAR (50) NOT NULL DEFAULT 'Domingo',
 		HoraApertura TIME NOT NULL DEFAULT '10:00:00',
 		HoraCierre TIME NOT NULL DEFAULT '21:00:00',
-		PRIMARY KEY (Nombre)
-
+		PRIMARY KEY (Nombre),
+		UNIQUE KEY (Telefono)
 	);
 
 	INSERT INTO TIENDAS(Nombre,Provincia,Localidad,Direccion,Telefono)
