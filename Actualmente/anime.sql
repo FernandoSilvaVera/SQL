@@ -44,8 +44,9 @@ CREATE TABLE GENERO(
 
 );
 
-CREATE TABLE CHICAS(
+CREATE TABLE PERSONAJES(
 
+	sexo set('Hombre','Mujer') NOT NULL,
 	nombre_anime VARCHAR(50) NOT NULL,
 	nombre VARCHAR(30) NOT NULL,
 	color_pelo VARCHAR(30) NOT NULL,

@@ -21,46 +21,28 @@ insert into FECHA VALUES("Eromanga-sensei","Abril","En emision","Primavera","201
 insert into FECHA VALUES("Re:Creators","Abril","En emision","Primavera","2017","Sabado");
 insert into FECHA VALUES("Alice to Zoroku","Abril","En emision","Primavera","2017","Sabado");
 insert into FECHA VALUES("Busou shoujo machiavellianism","Abril","En emision","Primavera","2017","Domingo");
+
 /*
 insert into GENERO VALUES("Accel World","Comedia","Accion");
 */
-insert into CHICAS VALUES("Zero kara hajimeru mahou no sho","Zero","Plateado","no");
-insert into CHICAS VALUES("Zero kara hajimeru mahou no sho","Albus","Rubio","no");
-insert into CHICAS VALUES("Rokudenashi majutsu koushi to akashic records","Sistine Fibel","Plateado","no");
-insert into CHICAS VALUES("Rokudenashi majutsu koushi to akashic records","Rubio Tingel","Rubio","no");
-insert into CHICAS VALUES("Rokudenashi majutsu koushi to akashic records","Re=L Rayford","Azul","si");
-insert into CHICAS VALUES("Rokudenashi majutsu koushi to akashic records","Celica Arfonia","Rubio","no");
-insert into CHICAS VALUES("Oushitsu kyoushi Haine","Adele von Glanzreich","Rubio","si");
-insert into CHICAS VALUES("Saenai heroine no sodatekata 2","Eriri Spencer Sawamura","Rubio","no");
-insert into CHICAS VALUES("Saenai heroine no sodatekata 2","Utaha Kasumigaoka","Negro","no");
-insert into CHICAS VALUES("Saenai heroine no sodatekata 2","Megumi Katou","Castaño","no");
-insert into CHICAS VALUES("Saenai heroine no sodatekata 2","Hyoudou Michiru","Morado","no");
-insert into CHICAS VALUES("Clockwork Planet","RyuZU","Plateado","no");
-insert into CHICAS VALUES("Clockwork Planet","Marie Bell Breguest","Rubio","si");
-insert into CHICAS VALUES("Clockwork Planet","AnchoR","Rubio","si");
-insert into CHICAS VALUES("Shingeki no kyojin 2","Ymir","Negro","no");
-insert into CHICAS VALUES("Shingeki no kyojin 2","MiKasa Ackerman","Negro","no");
-insert into CHICAS VALUES("Shingeki no kyojin 2","Historia Reiss","Rubio","no");
-insert into CHICAS VALUES("Shingeki no kyojin 2","Annie Leonhart","Rubio","no");
-insert into CHICAS VALUES("Shingeki no kyojin 2","Hanji Zoe","Castaño","no");
-insert into CHICAS VALUES("Shingeki no kyojin 2","Sasha Blouse","Castaño","no");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+insert into PERSONAJES VALUES("Mujer","Zero kara hajimeru mahou no sho","Zero","Plateado","no");
+insert into PERSONAJES VALUES("Mujer","Zero kara hajimeru mahou no sho","Albus","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Sistine Fibel","Plateado","no");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Rubio Tingel","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Re=L Rayford","Azul","si");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Celica Arfonia","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Oushitsu kyoushi Haine","Adele von Glanzreich","Rubio","si");
+insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Eriri Spencer Sawamura","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Utaha Kasumigaoka","Negro","no");
+insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Megumi Katou","Castaño","no");
+insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Hyoudou Michiru","Morado","no");
+insert into PERSONAJES VALUES("Mujer","Clockwork Planet","RyuZU","Plateado","no");
+insert into PERSONAJES VALUES("Mujer","Clockwork Planet","Marie Bell Breguest","Rubio","si");
+insert into PERSONAJES VALUES("Mujer","Clockwork Planet","AnchoR","Rubio","si");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","Ymir","Negro","no");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","MiKasa Ackerman","Negro","no");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","Historia Reiss","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","Annie Leonhart","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","Hanji Zoe","Castaño","no");
+insert into PERSONAJES VALUES("Mujer","Shingeki no kyojin 2","Sasha Blouse","Castaño","no");
