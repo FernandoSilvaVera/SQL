@@ -1,14 +1,38 @@
-insert into ANIMES VALUES("Zero kara hajimeru mahou no sho","1","Bruja rengar blanco","10","8");
-insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records","1","Best uniforme of anime","10","8");
-insert into ANIMES VALUES("Oushitsu kyoushi Haine","1","Tutor real","9","7");
-insert into ANIMES VALUES("Saenai heroine no sodatekata 2","2","Crear juego","8","12");
-insert into ANIMES VALUES("Clockwork Planet","1","Mundo de relojes","10","12");
-insert into ANIMES VALUES("Shingeki no kyojin 2","2","Mikasa","10","12");
-insert into ANIMES VALUES("Boku no hero 2","2","All Might","10","12");
-insert into ANIMES VALUES("Eromanga-sensei","1","Hermana dibuja ero","9","12");
-insert into ANIMES VALUES("Re:Creators","1","Fuera de su anime","7","12");
-insert into ANIMES VALUES("Alice to Zoroku","1","lolis poderes","10","12");
-insert into ANIMES VALUES("Busou shoujo machiavellianism","1","peli verde super kawaii","10","12");
+/*-------------------------- 2017-------------------------*/
+/*									NOMBRE															TEMPORADA				DESCRIPCION					NOTA		CAPITULOS*/
+insert into ANIMES VALUES("Zero kara hajimeru mahou no sho",							"1",			"Bruja rengar blanco",			"10",		" 8");
+insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records",			"1",			"Best uniforme of anime",		"10",		" 8");
+insert into ANIMES VALUES("Oushitsu kyoushi Haine",										"1",			"Tutor real",						" 9",		" 7");
+insert into ANIMES VALUES("Saenai heroine no sodatekata 2",								"2",			"Crear juego",						" 8",		"12");
+insert into ANIMES VALUES("Clockwork Planet",												"1",			"Mundo de relojes",				"10",		"12");
+insert into ANIMES VALUES("Shingeki no kyojin 2",											"2",			"Mikasa",							"10",		"12");
+insert into ANIMES VALUES("Boku no hero 2",													"2",			"All Might",						"10",		"12");
+insert into ANIMES VALUES("Eromanga-sensei",													"1",			"Hermana dibuja ero",			" 9",		"12");
+insert into ANIMES VALUES("Re:Creators",														"1",			"Fuera de su anime",				" 7",		"12");
+insert into ANIMES VALUES("Alice to Zoroku",													"1",			"lolis poderes",					"10",		"12");
+insert into ANIMES VALUES("Busou shoujo machiavellianism",								"1",			"peli verde super kawaii",		"10",		"12");
+
+insert into ANIMES VALUES("Accel World",														"1",			"Prota cerdito",					" 7",		"12");
+insert into ANIMES VALUES("Akame ga kill",													"1",			"Prota no es prota",				" 7",		"12");
+insert into ANIMES VALUES("Akiba`s strip",													"1",			"Quitar ropa para ganar",		" 8",		"12");
+insert into ANIMES VALUES("Angel Beats",														"1",			"Loli programadora",				" 8",		"12");
+insert into ANIMES VALUES("Another",															"1",			"Chica parche",					"10",		"12");
+insert into ANIMES VALUES("Assassination Classroom",										"1",			"Koro-sensei",						" 9",		"24");
+insert into ANIMES VALUES("Assassination Classroom 2",									"2",			"Koro-sensei",						" 8",		"24");
+insert into ANIMES VALUES("Baby princess 3d",												"1",			"harem 1 capitulo",				" 7",		" 1");
+insert into ANIMES VALUES("Black Bullet",														"1",			"lolis para todos",				" 7",		" 1");
+insert into ANIMES VALUES("Boku dake ga inai machi",										"1",			"Volver al pasado",				" 9",		" 1");
+insert into ANIMES VALUES("Boku no hero",														"1",			"All Might",						"10",		"12");
+insert into ANIMES VALUES("Charlotte",															"1",			"Chicos con poderes",			" 8",		"13");
+insert into ANIMES VALUES("Choujingen game neptune",										"1",			"Diosas lolis",					"10",		"13");
+insert into ANIMES VALUES("Date a live",														"1",			"Preguntas",						" 7",		"12");
+insert into ANIMES VALUES("Date a live 2",													"2",			"Kurumi",							" 8",		"12");
+insert into ANIMES VALUES("Death parade",														"1",			"Pruebas muerte",					" 9",		"12");
+insert into ANIMES VALUES("Kono subarashii",													"1",			"Diosa inutil",					"10",		"10");
+insert into ANIMES VALUES("Kono subarashii 2",												"2",			"Rival megumi",					"10",		"10");
+
+
+
 
 insert into FECHA VALUES("Zero kara hajimeru mahou no sho","Abril","En emision","Primavera","2017","Lunes");
 insert into FECHA VALUES("Rokudenashi majutsu koushi to akashic records","Abril","En emision","Primavera","2017","Martes");
@@ -21,6 +45,10 @@ insert into FECHA VALUES("Eromanga-sensei","Abril","En emision","Primavera","201
 insert into FECHA VALUES("Re:Creators","Abril","En emision","Primavera","2017","Sabado");
 insert into FECHA VALUES("Alice to Zoroku","Abril","En emision","Primavera","2017","Sabado");
 insert into FECHA VALUES("Busou shoujo machiavellianism","Abril","En emision","Primavera","2017","Domingo");
+insert into FECHA VALUES("Accel World","Abril","Septiembre","Primavera","2012","Finalizado");
+insert into FECHA VALUES("Akame ga kill","Julio","Diciembre","Verano","2014","Finalizado");
+
+
 
 /*
 insert into GENERO VALUES("Accel World","Comedia","Accion");
