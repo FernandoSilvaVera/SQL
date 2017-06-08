@@ -33,7 +33,6 @@ insert into ANIMES VALUES("Kono subarashii 2",																	"2",			"Rival meg
 
 
 
-
 insert into FECHA VALUES("Zero kara hajimeru mahou no sho","Abril","En emision","Primavera","2017","Lunes");
 insert into FECHA VALUES("Rokudenashi majutsu koushi to akashic records","Abril","En emision","Primavera","2017","Martes");
 insert into FECHA VALUES("Oushitsu kyoushi Haine","Abril","En emision","Primavera","2017","Martes");
@@ -57,8 +56,8 @@ insert into GENERO VALUES("Accel World","Comedia","Accion");
 
 insert into PERSONAJES VALUES("Mujer","Zero kara hajimeru mahou no sho","Zero","Plateado","no");
 insert into PERSONAJES VALUES("Mujer","Zero kara hajimeru mahou no sho","Albus","Rubio","no");
-insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Sistine Fibel","Plateado","no");
-insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Rubio Tingel","Rubio","no");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Sistine Fibel","Plateado","si");
+insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Rubio Tingel","Rubio","si");
 insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Re=L Rayford","Azul","si");
 insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Celica Arfonia","Rubio","no");
 insert into PERSONAJES VALUES("Mujer","Oushitsu kyoushi Haine","Adele von Glanzreich","Rubio","si");
@@ -106,9 +105,16 @@ insert into PERSONAJES VALUES("Mujer","Alice to Zoroku","Yonaga Hinagiri","Azul"
 insert into PERSONAJES VALUES("Mujer","Alice to Zoroku","Shizuku Ichijo","Negro","no");
 insert into PERSONAJES VALUES("Mujer","Alice to Zoroku","Noriko Yamada","Castaño","no");
 insert into PERSONAJES VALUES("Mujer","Alice to Zoroku","Miriam C. Tachibana","Castaño","no");
-
-
-
-
-
-
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Kirukiru Amo","Negro","no");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Rin Onigawara","Negro","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Mary Kikakujo","Rubio","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Warabi Hanasaka","Rubio","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Satori Tamaba","Verde","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Tsukuyo Inaba","Plateado","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Nono Mozunono","Rosa","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Chōka U. Barazaki","Rosa","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Sasa Kurasaki","Plateado","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Ui Migii","Azul","si");
+insert into PERSONAJES VALUES("Mujer","Busou shoujo machiavellianism","Tsunemi Toko","Castaño","si");
+insert into PERSONAJES VALUES("Mujer","Accel World","Burakku Rotasu","Negro","no");
+insert into PERSONAJES VALUES("Mujer","Accel World","Kurashima Chiyuri","Naranja","no");
