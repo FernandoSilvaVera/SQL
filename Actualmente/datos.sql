@@ -1,13 +1,13 @@
 /*-------------------------- 2017-------------------------*/
 /*									NOMBRE															TEMPORADA				DESCRIPCION					NOTA		CAPITULOS*/
-insert into ANIMES VALUES("Zero kara hajimeru mahou no sho",										"1",			"Bruja rengar blanco",				"10",		" 8");
-insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records",			"1",			"Best uniforme of anime",			"10",		" 8");
-insert into ANIMES VALUES("Oushitsu kyoushi Haine",															"1",			"Tutor real",									" 9",		" 7");
-insert into ANIMES VALUES("Saenai heroine no sodatekata 2",											"2",			"Crear juego",								" 8",		"12");
-insert into ANIMES VALUES("Clockwork Planet",																		"1",			"Mundo de relojes",						"10",		"12");
-insert into ANIMES VALUES("Shingeki no kyojin 2",																"2",			"Mikasa",											"10",		"12");
-insert into ANIMES VALUES("Boku no hero 2",																			"2",			"All Might",									"10",		"12");
-insert into ANIMES VALUES("Eromanga-sensei",																		"1",			"Hermana dibuja ero",					" 9",		"12");
+insert into ANIMES VALUES("Zero kara hajimeru mahou no sho","1","Bruja rengar blanco","10"," 8");
+insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records","1","Best uniforme of anime","10"," 8");
+insert into ANIMES VALUES("Oushitsu kyoushi Haine","1",	"Tutor real"," 9"," 7");
+insert into ANIMES VALUES("Saenai heroine no sodatekata 2","2",	"Crear juego"," 8","12");
+insert into ANIMES VALUES("Clockwork Planet","1","Mundo de relojes","10","12");
+insert into ANIMES VALUES("Shingeki no kyojin 2","2","Mikasa","10","12");
+insert into ANIMES VALUES("Boku no hero 2","2","All Might","10","12");
+insert into ANIMES VALUES("Eromanga-sensei","1","Hermana dibuja ero"," 9","12");
 insert into ANIMES VALUES("Re:Creators",																				"1",			"Fuera de su anime",					" 7",		"12");
 insert into ANIMES VALUES("Alice to Zoroku",																		"1",			"lolis poderes",							"10",		"12");
 insert into ANIMES VALUES("Busou shoujo machiavellianism",											"1",			"peli verde super kawaii",		"10",		"12");
