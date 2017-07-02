@@ -1,5 +1,5 @@
 /*-------------------------- 2017-------------------------*/
-/*									NOMBRE															TEMPORADA				DESCRIPCION					NOTA		CAPITULOS*/
+/*NOMBRE	TEMPORADA	DESCRIPCION	NOTA	CAPITULOS*/
 insert into ANIMES VALUES("Zero kara hajimeru mahou no sho","1","Bruja rengar blanco","10"," 8");
 insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records","1","Best uniforme of anime","10"," 8");
 insert into ANIMES VALUES("Oushitsu kyoushi Haine","1",	"Tutor real"," 9"," 7");
@@ -11,7 +11,6 @@ insert into ANIMES VALUES("Eromanga-sensei","1","Hermana dibuja ero"," 9","12");
 insert into ANIMES VALUES("Re:Creators","1","Fuera de su anime"," 7","12");
 insert into ANIMES VALUES("Alice to Zoroku","1","lolis poderes","10","12");
 insert into ANIMES VALUES("Busou shoujo machiavellianism","1","peli verde super kawaii","10","12");
-
 insert into ANIMES VALUES("Accel World","1","Prota cerdito"," 7","12");
 insert into ANIMES VALUES("Akame ga kill","1","Prota no es prota"," 7","12");
 insert into ANIMES VALUES("Akiba`s strip","1","Quitar ropa para ganar"," 8","12");
@@ -30,6 +29,29 @@ insert into ANIMES VALUES("Date a live 2","2","Kurumi"," 8","12");
 insert into ANIMES VALUES("Death parade","1","Pruebas muerte"," 9","12");
 insert into ANIMES VALUES("Kono subarashii","1","Diosa inutil","10","10");
 insert into ANIMES VALUES("Kono subarashii 2","2","Rival megumi","10","10");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
+insert into ANIMES VALUES("Gabriel Dropout","1","Ángel caido","7","12");
+insert into ANIMES VALUES("Watamote","1","Chica Hikikiomori","9","12");
+insert into ANIMES VALUES("Valkyrie Drive","1","Chicas isla","8","12");
+insert into ANIMES VALUES("Kiss x sis","1","Hermanas","9","12");
+insert into ANIMES VALUES("Kono Naka","1","Hermana sorpresa","7","12");
+insert into ANIMES VALUES("One Punch Man","1","Saitama","10","12");
+insert into ANIMES VALUES("Monster Musume","1","suu","10","12");
+insert into ANIMES VALUES("Overloard","1","Atrapado en un juego","9","13");
+insert into ANIMES VALUES("Sakamoto","1","PUTO AMO","7","12");
+insert into ANIMES VALUES("Kabaneri","1","zombies titanes","10","13");
+insert into ANIMES VALUES("Kiniro Mosaic","1","Karen desu","8","12");
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,7 +84,6 @@ insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic rec
 insert into PERSONAJES VALUES("Mujer","Rokudenashi majutsu koushi to akashic records","Celica Arfonia","Rubio","no");
 insert into PERSONAJES VALUES("Mujer","Oushitsu kyoushi Haine","Adele von Glanzreich","Rubio","si");
 insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Eriri Spencer Sawamura","Rubio","no");
-
 insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Utaha Kasumigaoka","Negro","no");
 insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Megumi Katou","Castaño","no");
 insert into PERSONAJES VALUES("Mujer","Saenai heroine no sodatekata 2","Hyoudou Michiru","Morado","no");
