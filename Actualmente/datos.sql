@@ -44,6 +44,95 @@ insert into ANIMES VALUES("Sakamoto","1","PUTO AMO","7","12");
 insert into ANIMES VALUES("Kabaneri","1","zombies titanes","10","13");
 insert into ANIMES VALUES("Kiniro Mosaic","1","Karen desu","8","12");
 
+insert into ANIMES VALUES("Dagashi Kashi","1","Loca de los dulces","7","12");
+insert into ANIMES VALUES("Trinity Seven","1","No princeso","8","12");
+insert into ANIMES VALUES("Sword art online","1","Kirito","8","25");
+insert into ANIMES VALUES("Sword art online 2","2","Kirito","4","24");
+insert into ANIMES VALUES("Shimoneta","1","agujero misterioso","8","12");
+insert into ANIMES VALUES("Sankarea","1","Novia Zombie","6","12");
+insert into ANIMES VALUES("Mirai Nikki","1","yuki yuki","10","26");
+insert into ANIMES VALUES("Rewrite","1","oppais oculto","10","13");
+insert into ANIMES VALUES("Rewrite:Moon and terra","2","oppais oculto","10","11");
+insert into ANIMES VALUES("Re:Zero","1","Rem Rem","10","25");
+insert into ANIMES VALUES("Rampo Kitan: Game of Laplace","1","Calculo matemático","8","11");
+insert into ANIMES VALUES("Outbreak Company","1","Reina loli","8","12");
+insert into ANIMES VALUES("Punchline","1","Gemidos","7","12");
+insert into ANIMES VALUES("Prison school","1","Carcel","10","12");
+insert into ANIMES VALUES("Machine Doll wa Kizutsukanai","1","Waifu","8","12");
+insert into ANIMES VALUES("Noragami","1","Dios pobre","9","12");
+insert into ANIMES VALUES("Noragami Aragoto","2","Dios pobre","8","13");
+insert into ANIMES VALUES("Osomatsu-san","1","Novita","10","25");
+insert into ANIMES VALUES("Sakura-so no Pet na Kanojo","1","Sakura-so","10","24");
+insert into ANIMES VALUES("Seirei Tsukai no Bladedance","1","loli de fuego","10","12");
+insert into ANIMES VALUES("No Game No Life","1","Shiro y Sora","10","12");
+insert into ANIMES VALUES("Netoge no Yome wa Onna","1","Ako","8","12");
+insert into ANIMES VALUES("Ore ga Ojo-sama Gakko","1","Musculos","8","12");
+insert into ANIMES VALUES("Yamada-kun to 7-nin no Majo","1","Besos con brujas","9","12");
+insert into ANIMES VALUES("Plastic Nee-san","1","Serie corta","9","12");
+insert into ANIMES VALUES("Shokugeki no Soma","1","Cocina","10","24");
+insert into ANIMES VALUES("Shokugeki no Souma: Ni no Sara","2","Cocina","9","13");
+insert into ANIMES VALUES("Kuroko no basket","1","Baloncesto","10","25");
+insert into ANIMES VALUES("Kuroko no basket 2","2","Baloncesto","10","25");
+insert into ANIMES VALUES("Kuroko no basket 3","3","Baloncesto","10","25");
+insert into ANIMES VALUES("Shingeki no Kyojin","1","Titanes","10","25");
+insert into ANIMES VALUES("High School DxD","1","Rias Gremory","10","12");
+insert into ANIMES VALUES("High School DxD New","2","Rias Gremory","10","12");
+insert into ANIMES VALUES("High School DxD Born","3","Rias Gremory","10","13");
+insert into ANIMES VALUES("Dakara Boku wa, H ga Dekinai","1","hermano issei","7","12");
+insert into ANIMES VALUES("Tokyo Ghoul","1","Comer humanos","9","12");
+insert into ANIMES VALUES("Hai to Gensou no Grimgar","1","Bichos sufren","9","12");
+insert into ANIMES VALUES("Hentai Oji to Warawanai Neko","1","Gato suerte","8","12");
+insert into ANIMES VALUES("Kore wa Zombie Desu ka? of the dead","2","Yuu","7","12");
+insert into ANIMES VALUES("School-Live!","1","Zombies vs Lolis","9","12");
+insert into ANIMES VALUES("Gakusen Toshi Asterisk","1","Escuela de pelea","8","12");
+insert into ANIMES VALUES("Gakusen Toshi Asterisk 2","2","Escuela de pelea","9","13");
+insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai","1","Club de los vecinos","8","12");
+insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai next","2","Club de los vecinos","8","12");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
