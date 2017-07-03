@@ -87,7 +87,6 @@ insert into ANIMES VALUES("Gakusen Toshi Asterisk","1","Escuela de pelea","8","1
 insert into ANIMES VALUES("Gakusen Toshi Asterisk 2","2","Escuela de pelea","9","13");
 insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai","1","Club de los vecinos","8","12");
 insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai next","2","Club de los vecinos","8","12");
-
 insert into ANIMES VALUES("Sora no otoshimono","1","Angeles","8","12");
 insert into ANIMES VALUES("Sora no otoshimono:Forte","2","Angeles","8","12");
 insert into ANIMES VALUES("Shinmai Maou no Testament","1","Como DxD","7","13");
@@ -117,83 +116,6 @@ insert into ANIMES VALUES("Dragon ball super","3","Koku dios"," 8","100");
 insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
