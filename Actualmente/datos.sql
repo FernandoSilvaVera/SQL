@@ -43,7 +43,6 @@ insert into ANIMES VALUES("Overloard","1","Atrapado en un juego","9","13");
 insert into ANIMES VALUES("Sakamoto","1","PUTO AMO","7","12");
 insert into ANIMES VALUES("Kabaneri","1","zombies titanes","10","13");
 insert into ANIMES VALUES("Kiniro Mosaic","1","Karen desu","8","12");
-
 insert into ANIMES VALUES("Dagashi Kashi","1","Loca de los dulces","7","12");
 insert into ANIMES VALUES("Trinity Seven","1","No princeso","8","12");
 insert into ANIMES VALUES("Sword art online","1","Kirito","8","25");
@@ -88,6 +87,60 @@ insert into ANIMES VALUES("Gakusen Toshi Asterisk","1","Escuela de pelea","8","1
 insert into ANIMES VALUES("Gakusen Toshi Asterisk 2","2","Escuela de pelea","9","13");
 insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai","1","Club de los vecinos","8","12");
 insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai next","2","Club de los vecinos","8","12");
+
+insert into ANIMES VALUES("Sora no otoshimono","1","Angeles","8","12");
+insert into ANIMES VALUES("Sora no otoshimono:Forte","2","Angeles","8","12");
+insert into ANIMES VALUES("Shinmai Maou no Testament","1","Como DxD","7","13");
+insert into ANIMES VALUES("Shinmai Maou no Testament Burst","2","Como DxD","7","11");
+insert into ANIMES VALUES("Saenai heroine no sodatekata","1","Crear juego"," 10","13");
+insert into ANIMES VALUES("Masamune-kun no Revenge","1","Venganza por amor"," 8","12");
+insert into ANIMES VALUES("Selector infected","1","Juego de cartas"," 9","12");
+insert into ANIMES VALUES("Selector Spread Wixoss","2","Juego de cartas"," 8","12");
+insert into ANIMES VALUES("Lostorage incited Wixoss","3","Juego de cartas"," 8","12");
+insert into ANIMES VALUES("Highschool of the dead","1","Zombies"," 9","12");
+insert into ANIMES VALUES("Himouto! Umaru-chan","1","hamster"," 9","12");
+insert into ANIMES VALUES("Urara Meirocho","1","Road to bruja"," 7","12");
+insert into ANIMES VALUES("Musaigen no Phantom World","1","Mundo con poderes"," 6","13");
+insert into ANIMES VALUES("Lance N' Masques","1","Caballeros"," 8","12");
+insert into ANIMES VALUES("Haruchika","1","Chica flauta detective"," 7","12");
+insert into ANIMES VALUES("Mob Psycho 100","1","guiños saitama"," 7","12");
+insert into ANIMES VALUES("Denpa Onna to Seishun Otoko","1","Chica ovni"," 8","12");
+insert into ANIMES VALUES("Boruto","1","Naruto falso"," 6","12");
+insert into ANIMES VALUES("Chunibyo Demo Koi ga Shitai!","1","Ojo malvado"," 8","12");
+insert into ANIMES VALUES("Chunibyo Demo Koi ga Shitai Ren!","2","Ojo malvado"," 7","12");
+insert into ANIMES VALUES("Flip Flappers","1","Ojos grandes"," 7","12");
+insert into ANIMES VALUES("Kuzu no Honkai","1","Amigos con derecho"," 9","12");
+insert into ANIMES VALUES("Okami-san to Shichinin no Nakama-tachi","1","Favor por favor"," 7","12");
+insert into ANIMES VALUES("Dragon ball","1","koku niño"," 7","153");
+insert into ANIMES VALUES("Dragon ball Z","2","Koku saiyan"," 9","291");
+insert into ANIMES VALUES("Dragon ball super","3","Koku dios"," 8","100");
+insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
+insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
+insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
