@@ -30,6 +30,11 @@ insert into ANIMES VALUES("Death parade","1","Pruebas muerte"," 9","12");
 insert into ANIMES VALUES("Kono subarashii","1","Diosa inutil","10","10");
 insert into ANIMES VALUES("Kono subarashii 2","2","Rival megumi","10","10");
 
+insert into ANIMES VALUES("Isekai Shoukudou","1","Restaurante universal","7","1");
+insert into ANIMES VALUES("Koi to Uso","1","Amor prohibido","9","1");
+insert into ANIMES VALUES("Keppeki Danshi! Aoyama-kun","1","Futbolista limpiador","8","1");
+insert into ANIMES VALUES("Kakegurui","1","Copia no game no life","8","1");
+
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
 insert into ANIMES VALUES("Gabriel Dropout","1","Ángel caido","7","12");
@@ -133,8 +138,10 @@ insert into FECHA VALUES("Busou shoujo machiavellianism","Abril","En emision","P
 insert into FECHA VALUES("Accel World","Abril","Septiembre","Primavera","2012","Finalizado");
 insert into FECHA VALUES("Akame ga kill","Julio","Diciembre","Verano","2014","Finalizado");
 
-
-
+insert into FECHA VALUES("Isekai Shoukudou","Junio","En emision","Verano","2017","Lunes");
+insert into FECHA VALUES("Koi to Uso","Junio","En emision","Verano","2017","Lunes");
+insert into FECHA VALUES("Keppeki Danshi! Aoyama-kun","Junio","En emision","Verano","2017","Domingo");
+insert into FECHA VALUES("Kakegurui","Junio","En emision","Verano","2017","Sabado");
 
 /*
 insert into GENERO VALUES("Accel World","Comedia","Accion");
