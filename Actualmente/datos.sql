@@ -122,6 +122,7 @@ insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
 insert into ANIMES VALUES("Aho Girl","1","Loca platanos"," 8","1");
+insert into ANIMES VALUES("Tsurezure Children","1","Declaraciones"," 7","1");
 
 
 
@@ -139,6 +140,7 @@ insert into FECHA VALUES("Busou shoujo machiavellianism","Abril","En emision","P
 insert into FECHA VALUES("Accel World","Abril","Septiembre","Primavera","2012","Finalizado");
 insert into FECHA VALUES("Akame ga kill","Julio","Diciembre","Verano","2014","Finalizado");
 insert into FECHA VALUES("Aho Girl","Junio","En emision","Verano","2017","Martes");
+insert into FECHA VALUES("Tsurezure Children","Junio","En emision","Verano","2017","Martes");
 
 insert into FECHA VALUES("Isekai Shoukudou","Junio","En emision","Verano","2017","Lunes");
 insert into FECHA VALUES("Koi to Uso","Junio","En emision","Verano","2017","Lunes");
