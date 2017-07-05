@@ -13,6 +13,15 @@ insert into ANIMES VALUES("Alice to Zoroku","1","lolis poderes","10","12");
 insert into ANIMES VALUES("Busou shoujo machiavellianism","1","peli verde super kawaii","10","12");
 insert into ANIMES VALUES("Accel World","1","Prota cerdito"," 7","12");
 insert into ANIMES VALUES("Akame ga kill","1","Prota no es prota"," 7","12");
+insert into ANIMES VALUES("Aho Girl","1","Loca platanos"," 8","1");
+insert into ANIMES VALUES("Tsurezure Children","1","Declaraciones"," 7","1");
+insert into ANIMES VALUES("Isekai Shoukudou","1","Restaurante universal","7","1");
+insert into ANIMES VALUES("Koi to Uso","1","Amor prohibido","9","1");
+insert into ANIMES VALUES("Keppeki Danshi! Aoyama-kun","1","Futbolista limpiador","8","1");
+insert into ANIMES VALUES("Kakegurui","1","Copia no game no life","8","1");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
 insert into ANIMES VALUES("Akiba`s strip","1","Quitar ropa para ganar"," 8","12");
 insert into ANIMES VALUES("Angel Beats","1","Loli programadora"," 8","12");
 insert into ANIMES VALUES("Another","1","Chica parche","10","12");
@@ -29,14 +38,6 @@ insert into ANIMES VALUES("Date a live 2","2","Kurumi"," 8","12");
 insert into ANIMES VALUES("Death parade","1","Pruebas muerte"," 9","12");
 insert into ANIMES VALUES("Kono subarashii","1","Diosa inutil","10","10");
 insert into ANIMES VALUES("Kono subarashii 2","2","Rival megumi","10","10");
-
-insert into ANIMES VALUES("Isekai Shoukudou","1","Restaurante universal","7","1");
-insert into ANIMES VALUES("Koi to Uso","1","Amor prohibido","9","1");
-insert into ANIMES VALUES("Keppeki Danshi! Aoyama-kun","1","Futbolista limpiador","8","1");
-insert into ANIMES VALUES("Kakegurui","1","Copia no game no life","8","1");
-
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
 insert into ANIMES VALUES("Gabriel Dropout","1","Ángel caido","7","12");
 insert into ANIMES VALUES("Watamote","1","Chica Hikikiomori","9","12");
 insert into ANIMES VALUES("Valkyrie Drive","1","Chicas isla","8","12");
@@ -121,8 +122,7 @@ insert into ANIMES VALUES("Dragon ball super","3","Koku dios"," 8","100");
 insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
-insert into ANIMES VALUES("Aho Girl","1","Loca platanos"," 8","1");
-insert into ANIMES VALUES("Tsurezure Children","1","Declaraciones"," 7","1");
+
 
 
 
@@ -141,7 +141,6 @@ insert into FECHA VALUES("Accel World","Abril","Septiembre","Primavera","2012","
 insert into FECHA VALUES("Akame ga kill","Julio","Diciembre","Verano","2014","Finalizado");
 insert into FECHA VALUES("Aho Girl","Junio","En emision","Verano","2017","Martes");
 insert into FECHA VALUES("Tsurezure Children","Junio","En emision","Verano","2017","Martes");
-
 insert into FECHA VALUES("Isekai Shoukudou","Junio","En emision","Verano","2017","Lunes");
 insert into FECHA VALUES("Koi to Uso","Junio","En emision","Verano","2017","Lunes");
 insert into FECHA VALUES("Keppeki Danshi! Aoyama-kun","Junio","En emision","Verano","2017","Domingo");
