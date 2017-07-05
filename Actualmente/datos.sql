@@ -19,9 +19,6 @@ insert into ANIMES VALUES("Isekai Shoukudou","1","Restaurante universal","7","1"
 insert into ANIMES VALUES("Koi to Uso","1","Amor prohibido","9","1");
 insert into ANIMES VALUES("Keppeki Danshi! Aoyama-kun","1","Futbolista limpiador","8","1");
 insert into ANIMES VALUES("Kakegurui","1","Copia no game no life","8","1");
-
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
 insert into ANIMES VALUES("Akiba`s strip","1","Quitar ropa para ganar"," 8","12");
 insert into ANIMES VALUES("Angel Beats","1","Loli programadora"," 8","12");
 insert into ANIMES VALUES("Another","1","Chica parche","10","12");
@@ -32,6 +29,9 @@ insert into ANIMES VALUES("Black Bullet","1","lolis para todos"," 7"," 1");
 insert into ANIMES VALUES("Boku dake ga inai machi","1","Volver al pasado"," 9"," 1");
 insert into ANIMES VALUES("Boku no hero","1","All Might","10","12");
 insert into ANIMES VALUES("Charlotte","1","Chicos con poderes",	" 8","13");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
 insert into ANIMES VALUES("Choujingen game neptune","1","Diosas lolis","10","13");
 insert into ANIMES VALUES("Date a live","1","Preguntas"," 7","12");
 insert into ANIMES VALUES("Date a live 2","2","Kurumi"," 8","12");
@@ -145,6 +145,25 @@ insert into FECHA VALUES("Isekai Shoukudou","Junio","En emision","Verano","2017"
 insert into FECHA VALUES("Koi to Uso","Junio","En emision","Verano","2017","Lunes");
 insert into FECHA VALUES("Keppeki Danshi! Aoyama-kun","Junio","En emision","Verano","2017","Domingo");
 insert into FECHA VALUES("Kakegurui","Junio","En emision","Verano","2017","Sabado");
+insert into FECHA VALUES("Akiba`s strip","Enero","Marzo","Invierno","2016","Miercoles");
+insert into FECHA VALUES("Angel Beats","Abril","Junio","Primavera","2010","Sabado");
+insert into FECHA VALUES("Another","Enero","Marzo","Invierno","2011","Lunes");
+insert into FECHA VALUES("Assassination Classroom","Enero","Junio","Invierno","2014","Viernes");
+insert into FECHA VALUES("Assassination Classroom 2","Enero","Junio","Invierno","2015","Jueves");
+insert into FECHA VALUES("Baby princess 3d","Julio","Julio","Verano","2011","Miercoles");
+insert into FECHA VALUES("Black Bullet","Abril","Julio","Primavera","2014","Martes");
+insert into FECHA VALUES("Boku dake ga inai machi","Enero","Marzo","Invierno","2015","Viernes");
+insert into FECHA VALUES("Boku no hero","Abril","Junio","Primavera","2016","Domingo");
+insert into FECHA VALUES("Charlotte","Julio","Septiembre","Verano","2015","Sabado");
+
+
+
+
+
+
+
+
+
 
 /*
 insert into GENERO VALUES("Accel World","Comedia","Accion");
