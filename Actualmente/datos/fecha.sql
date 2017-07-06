@@ -27,9 +27,6 @@ insert into FECHA VALUES("Black Bullet","Abril","Julio","Primavera","2014","Mart
 insert into FECHA VALUES("Boku dake ga inai machi","Enero","Marzo","Invierno","2015","Viernes");
 insert into FECHA VALUES("Boku no hero","Abril","Junio","Primavera","2016","Domingo");
 insert into FECHA VALUES("Charlotte","Julio","Septiembre","Verano","2015","Sabado");
-
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
 insert into FECHA VALUES("Choujingen game neptune","Julio","Septiembre","Verano","2013","Viernes");
 insert into FECHA VALUES("Date a live","Abril","Junio","Primavera","2013","Sabado");
 insert into FECHA VALUES("Date a live 2","Abril","Junio","Primavera","2014","Sabado");
@@ -70,4 +67,6 @@ insert into FECHA VALUES("Seirei Tsukai no Bladedance","Julio","Septiembre","Ver
 insert into FECHA VALUES("No game No Life","Abril","Junio","Primavera","2014","Miercoles");
 insert into FECHA VALUES("Netoge no Yome wa Onna","Abril","Junio","Primavera","2016","Jueves");
 
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
+/*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO";"DIA");*/
