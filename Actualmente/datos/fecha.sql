@@ -69,4 +69,19 @@ insert into FECHA VALUES("Netoge no Yome wa Onna","Abril","Junio","Primavera","2
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
-/*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO";"DIA");*/
+/*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO","DIA");*/
+insert into FECHA VALUES("Ore ga Ojo-sama Gakko","Octubre","Diciembre","Otoño","2015","Miercoles");
+insert into FECHA VALUES("Yamada-kun to 7-nin no Majo","Abril","Junio","Primavera","2015","Domingo");
+/*insert into FECHA VALUES("Plastic Nee-san","Abril","Junio","Primavera","2015","Domingo");*/
+insert into FECHA VALUES("Shokugeki no Soma","Abril","Septiembre","Primavera","2015","Viernes");
+/*insert into FECHA VALUES("Shokugeki no Souma: Ni no Sara","Abril","Septiembre","Primavera","2015","Viernes");*/
+insert into FECHA VALUES("Kuroko no basket","Abril","Septiembre","Primavera","2012","Sabado");
+insert into FECHA VALUES("Kuroko no basket 2","Octubre","Marzo","Otoño","2013","Sabado");
+insert into FECHA VALUES("Kuroko no basket 3","Enero","Junio","Invierno","2014","Sabado");
+insert into FECHA VALUES("Shingeki no Kyojin","Abril","Septiembre","Primavera","2013","Sabado");
+insert into FECHA VALUES("High School DxD","Enero","Marzo","Invierno","2012","Viernes");
+insert into FECHA VALUES("High School DxD New","Julio","Septiembre","Verano","2013","Domingo");
+insert into FECHA VALUES("High School DxD Born","Abril","Junio","Primavera","2015","Sabado");
+
+
+
