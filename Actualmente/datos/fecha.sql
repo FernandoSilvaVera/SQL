@@ -82,6 +82,11 @@ insert into FECHA VALUES("Shingeki no Kyojin","Abril","Septiembre","Primavera","
 insert into FECHA VALUES("High School DxD","Enero","Marzo","Invierno","2012","Viernes");
 insert into FECHA VALUES("High School DxD New","Julio","Septiembre","Verano","2013","Domingo");
 insert into FECHA VALUES("High School DxD Born","Abril","Junio","Primavera","2015","Sabado");
+insert into FECHA VALUES("Dakara Boku wa, H ga Dekinai","Julio","Septiembre","Verano","2012","Viernes");
+insert into FECHA VALUES("Tokyo Ghoul","Julio","Septiembre","Verano","2014","Viernes");
+insert into FECHA VALUES("Tokyo Ghoul 2","Enero","Marzo","Invierno","2014","Jueves");
+insert into FECHA VALUES("Hai to Gensou no Grimgar","Enero","Marzo","Invierno","2015","Lunes");
+insert into FECHA VALUES("Hentai Oji to Warawanai Neko","Abril","Junio","Primavera","2013","Sabado");
 
 
 
