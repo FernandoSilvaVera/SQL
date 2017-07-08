@@ -67,14 +67,11 @@ insert into FECHA VALUES("Seirei Tsukai no Bladedance","Julio","Septiembre","Ver
 insert into FECHA VALUES("No game No Life","Abril","Junio","Primavera","2014","Miercoles");
 insert into FECHA VALUES("Netoge no Yome wa Onna","Abril","Junio","Primavera","2016","Jueves");
 
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
-/*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO","DIA");*/
 insert into FECHA VALUES("Ore ga Ojo-sama Gakko","Octubre","Diciembre","Otoño","2015","Miercoles");
 insert into FECHA VALUES("Yamada-kun to 7-nin no Majo","Abril","Junio","Primavera","2015","Domingo");
-/*insert into FECHA VALUES("Plastic Nee-san","Abril","Junio","Primavera","2015","Domingo");*/
+insert into FECHA VALUES("Plastic Nee-san","Mayo","Julio","Primavera","2012","Miercoles");
 insert into FECHA VALUES("Shokugeki no Soma","Abril","Septiembre","Primavera","2015","Viernes");
-/*insert into FECHA VALUES("Shokugeki no Souma: Ni no Sara","Abril","Septiembre","Primavera","2015","Viernes");*/
+insert into FECHA VALUES("Shokugeki no Souma: Ni no Sara","Julio","Septiembre","Verano","2016","Sabado");
 insert into FECHA VALUES("Kuroko no basket","Abril","Septiembre","Primavera","2012","Sabado");
 insert into FECHA VALUES("Kuroko no basket 2","Octubre","Marzo","Otoño","2013","Sabado");
 insert into FECHA VALUES("Kuroko no basket 3","Enero","Junio","Invierno","2014","Sabado");
@@ -87,6 +84,11 @@ insert into FECHA VALUES("Tokyo Ghoul","Julio","Septiembre","Verano","2014","Vie
 insert into FECHA VALUES("Tokyo Ghoul 2","Enero","Marzo","Invierno","2014","Jueves");
 insert into FECHA VALUES("Hai to Gensou no Grimgar","Enero","Marzo","Invierno","2015","Lunes");
 insert into FECHA VALUES("Hentai Oji to Warawanai Neko","Abril","Junio","Primavera","2013","Sabado");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
+/*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO","DIA");*/
+
 
 
 
