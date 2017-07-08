@@ -68,7 +68,6 @@ insert into ANIMES VALUES("Sakura-so no Pet na Kanojo","1","Sakura-so","10","24"
 insert into ANIMES VALUES("Seirei Tsukai no Bladedance","1","loli de fuego","10","12");
 insert into ANIMES VALUES("No Game No Life","1","Shiro y Sora","10","12");
 insert into ANIMES VALUES("Netoge no Yome wa Onna","1","Ako","8","12");
-
 insert into ANIMES VALUES("Ore ga Ojo-sama Gakko","1","Musculos","8","12");
 insert into ANIMES VALUES("Yamada-kun to 7-nin no Majo","1","Besos con brujas","9","12");
 insert into ANIMES VALUES("Plastic Nee-san","1","Serie corta","9","12");
@@ -84,13 +83,13 @@ insert into ANIMES VALUES("High School DxD Born","3","Rias Gremory","10","13");
 insert into ANIMES VALUES("Dakara Boku wa, H ga Dekinai","1","hermano issei","7","12");
 insert into ANIMES VALUES("Tokyo Ghoul","1","Comer humanos","9","12");
 insert into ANIMES VALUES("Tokyo Ghoul 2","2","Comer humanos","6","12");
+insert into ANIMES VALUES("Hai to Gensou no Grimgar","1","Bichos sufren","9","12");
+insert into ANIMES VALUES("Hentai Oji to Warawanai Neko","1","Gato suerte","8","12");
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
-insert into ANIMES VALUES("Hai to Gensou no Grimgar","1","Bichos sufren","9","12");
-insert into ANIMES VALUES("Hentai Oji to Warawanai Neko","1","Gato suerte","8","12");
 insert into ANIMES VALUES("Kore wa Zombie Desu ka? of the dead","2","Yuu","7","12");
-insert into ANIMES VALUES("School-Live!","1","Zombies vs Lolis","9","12");
+insert into ANIMES VALUES("Gakko Gurashi","1","Zombies vs Lolis","9","12");
 insert into ANIMES VALUES("Gakusen Toshi Asterisk","1","Escuela de pelea","8","12");
 insert into ANIMES VALUES("Gakusen Toshi Asterisk 2","2","Escuela de pelea","9","13");
 insert into ANIMES VALUES("Boku wa Tomodachi ga Sukunai","1","Club de los vecinos","8","12");

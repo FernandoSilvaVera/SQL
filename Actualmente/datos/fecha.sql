@@ -66,7 +66,6 @@ insert into FECHA VALUES("Sakura-so no Pet na Kanojo","Octubre","Marzo","Otoño"
 insert into FECHA VALUES("Seirei Tsukai no Bladedance","Julio","Septiembre","Verano","2014","Lunes");
 insert into FECHA VALUES("No game No Life","Abril","Junio","Primavera","2014","Miercoles");
 insert into FECHA VALUES("Netoge no Yome wa Onna","Abril","Junio","Primavera","2016","Jueves");
-
 insert into FECHA VALUES("Ore ga Ojo-sama Gakko","Octubre","Diciembre","Otoño","2015","Miercoles");
 insert into FECHA VALUES("Yamada-kun to 7-nin no Majo","Abril","Junio","Primavera","2015","Domingo");
 insert into FECHA VALUES("Plastic Nee-san","Mayo","Julio","Primavera","2012","Miercoles");
@@ -88,7 +87,37 @@ insert into FECHA VALUES("Hentai Oji to Warawanai Neko","Abril","Junio","Primave
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
 /*insert into FECHA VALUES("NOMBRE","MES","MES","TEMPORADA","AÑO","DIA");*/
-
-
-
-
+insert into FECHA VALUES("Gakko Gurashi","Julio","Septiembre","Verano","2015","Jueves");
+insert into FECHA VALUES("Gakusen Toshi Asterisk","Octubre","Diciembre","Otoño","2015","Sabado");
+insert into FECHA VALUES("Gakusen Toshi Asterisk 2","Abril","Junio","Primavera","2016","Sabado");
+insert into FECHA VALUES("Boku wa Tomodachi ga Sukunai","Octubre","Diciembre","Otoño","2011","Viernes");
+insert into FECHA VALUES("Boku wa Tomodachi ga Sukunai next","Enero","Marzo","Invierno","2013","Viernes");
+insert into FECHA VALUES("Sora no otoshimono","Octubre","Diciembre","Otoño","2009","Domingo");
+insert into FECHA VALUES("Sora no otoshimono:Forte","Octubre","Diciembre","Otoño","2010","Viernes");
+insert into FECHA VALUES("Shinmai Maou no Testament","Enero","Marzo","Invierno","2014","Miercoles");
+insert into FECHA VALUES("Shinmai Maou no Testament Burst","Octubre","Diciembre","Otoño","2015","Martes");
+insert into FECHA VALUES("Saenai heroine no sodatekata","Enero","Marzo","Invierno","2014","Viernes");
+insert into FECHA VALUES("Masamune-kun no Revenge","Enero","Marzo","Invierno","2016","Jueves");
+insert into FECHA VALUES("Selector infected","Abril","Junio","Primavera","2014","Jueves");
+insert into FECHA VALUES("Selector Spread Wixoss","Octubre","Diciembre","Otoño","2014","Viernes");
+insert into FECHA VALUES("Lostorage incited Wixoss","Octubre","Diciembre","Otoño","2016","Sabado");
+insert into FECHA VALUES("Highschool of the dead","Julio","Septiembre","Verano","2010","Lunes");
+insert into FECHA VALUES("Himouto! Umaru-chan","Julio","Septiembre","Verano","2015","Lunes");
+insert into FECHA VALUES("Urara Meirocho","Enero","Marzo","Invierno","2016","Jueves");
+insert into FECHA VALUES("Musaigen no Phantom World","Enero","Marzo","Invierno","2015","Jueves");
+insert into FECHA VALUES("Lance N' Masques","Octubre","Diciembre","Otoño","2015","Jueves");
+insert into FECHA VALUES("Haruchika","Enero","Marzo","Invierno","2016","Miercoles");
+insert into FECHA VALUES("Mob Psycho 100","Julio","Septiembre","Verano","2016","Martes");
+insert into FECHA VALUES("Denpa Onna to Seishun Otoko","Abril","Julio","Primavera","2011","Viernes");
+insert into FECHA VALUES("Boruto","Abril","","Primavera","2017","Miercoles");
+insert into FECHA VALUES("Chunibyo Demo Koi ga Shitai!","Octubre","Diciembre","Otoño","2012","Jueves");
+insert into FECHA VALUES("Chunibyo Demo Koi ga Shitai Ren!","Enero","Marzo","Invierno","2013","Miercoles");
+insert into FECHA VALUES("Flip Flappers","Octubre","Diciembre","Otoño","2016","Jueves");
+insert into FECHA VALUES("Kuzu no Honkai","Enero","Marzo","Invierno","2016","Jueves");
+insert into FECHA VALUES("Okami-san to Shichinin no Nakama-tachi","Julio","Septiembre","Verano","2010","Jueves");
+insert into FECHA VALUES("Dragon ball","Febrero","Abril","Invierno","1986","Martes");
+insert into FECHA VALUES("Dragon ball Z","Abril","Enero","Primavera","1989","Miercoles");
+insert into FECHA VALUES("Dragon ball super","Julio","","Verano","2015","Domingo");
+insert into FECHA VALUES("Dragon ball GT","Febrero","Noviembre","Invierno","1996","Miercoles");
+insert into FECHA VALUES("Little Witch Academia","Enero","Junio","Invierno","2017","Domingo");
+insert into FECHA VALUES("Nagi no Asukara","Octubre","Abril","Otoño","2013","Jueves");
