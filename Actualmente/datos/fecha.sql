@@ -119,5 +119,10 @@ insert into FECHA VALUES("Dragon ball","Febrero","Abril","Invierno","1986","Mart
 insert into FECHA VALUES("Dragon ball Z","Abril","Enero","Primavera","1989","Miercoles");
 insert into FECHA VALUES("Dragon ball super","Julio","","Verano","2015","Domingo");
 insert into FECHA VALUES("Dragon ball GT","Febrero","Noviembre","Invierno","1996","Miercoles");
-insert into FECHA VALUES("Little Witch Academia","Enero","Junio","Invierno","2017","Domingo");
+insert into FECHA VALUES("Little Witch Academia","Enero","Junio","Invierno","2016","Domingo");
 insert into FECHA VALUES("Nagi no Asukara","Octubre","Abril","Otoño","2013","Jueves");
+insert into FECHA VALUES("Made in abyss","Julio","","Verano","2017","Sabado");
+insert into FECHA VALUES("Kore wa Zombie Desu ka?","Enero","Marzo","Invierno","2010","Martes");
+insert into FECHA VALUES("Kore wa Zombie Desu ka? of the dead","Abril","Junio","Primavera","2012","Viernes");
+
+

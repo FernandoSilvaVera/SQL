@@ -85,10 +85,8 @@ insert into ANIMES VALUES("Tokyo Ghoul","1","Comer humanos","9","12");
 insert into ANIMES VALUES("Tokyo Ghoul 2","2","Comer humanos","6","12");
 insert into ANIMES VALUES("Hai to Gensou no Grimgar","1","Bichos sufren","9","12");
 insert into ANIMES VALUES("Hentai Oji to Warawanai Neko","1","Gato suerte","8","12");
-
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
-insert into ANIMES VALUES("Kore wa Zombie Desu ka? of the dead","2","Yuu","7","12");
+insert into ANIMES VALUES("Kore wa Zombie Desu ka?","1","Yuu","7","12");
+insert into ANIMES VALUES("Kore wa Zombie Desu ka? of the dead","2","Yuu","7","10");
 insert into ANIMES VALUES("Gakko Gurashi","1","Zombies vs Lolis","9","12");
 insert into ANIMES VALUES("Gakusen Toshi Asterisk","1","Escuela de pelea","8","12");
 insert into ANIMES VALUES("Gakusen Toshi Asterisk 2","2","Escuela de pelea","9","13");
@@ -123,3 +121,7 @@ insert into ANIMES VALUES("Dragon ball super","3","Koku dios"," 8","100");
 insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
+insert into ANIMES VALUES("Made in abyss","1","Grieta","10","1");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
