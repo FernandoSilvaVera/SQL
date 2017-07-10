@@ -124,5 +124,8 @@ insert into FECHA VALUES("Nagi no Asukara","Octubre","Abril","Otoño","2013","Ju
 insert into FECHA VALUES("Made in abyss","Julio","","Verano","2017","Sabado");
 insert into FECHA VALUES("Kore wa Zombie Desu ka?","Enero","Marzo","Invierno","2010","Martes");
 insert into FECHA VALUES("Kore wa Zombie Desu ka? of the dead","Abril","Junio","Primavera","2012","Viernes");
+insert into FECHA VALUES("Knight`s & Magic","Julio","","Verano","2017","Domingo");
+insert into FECHA VALUES("18IF","Julio","","Verano","2017","Viernes");
+insert into FECHA VALUES("Konbini Kareshi","Julio","","Verano","2017","Jueves");
 
 

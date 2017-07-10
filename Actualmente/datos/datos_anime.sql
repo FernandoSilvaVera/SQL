@@ -124,4 +124,6 @@ insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
 insert into ANIMES VALUES("Made in abyss","1","Grieta","10","1");
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
+insert into ANIMES VALUES("Knight`s & Magic","1","Programador mecha","9","2");
+insert into ANIMES VALUES("18IF","1","Juego sueño brujas","10","1");
+insert into ANIMES VALUES("Konbini Kareshi","1","Chica timida","7","1");
