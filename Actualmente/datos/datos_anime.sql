@@ -122,8 +122,12 @@ insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64");
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26");
 insert into ANIMES VALUES("Made in abyss","1","Grieta","10","1");
-
-/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 insert into ANIMES VALUES("Knight`s & Magic","1","Programador mecha","9","2");
 insert into ANIMES VALUES("18IF","1","Juego sueño brujas","10","1");
 insert into ANIMES VALUES("Konbini Kareshi","1","Chica timida","7","1");
+
+/*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
+insert into ANIEMS VALUES("Hajimete no gal","1","echii gratuito","8","1");
+insert into ANIEMS VALUES("Isekai wa smartphone to tomo ni","1","re:zero + konosuba","10","1");
+
