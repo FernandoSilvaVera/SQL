@@ -127,7 +127,10 @@ insert into FECHA VALUES("Kore wa Zombie Desu ka? of the dead","Abril","Junio","
 insert into FECHA VALUES("Knight`s & Magic","Julio","","Verano","2017","Domingo");
 insert into FECHA VALUES("18IF","Julio","","Verano","2017","Viernes");
 insert into FECHA VALUES("Konbini Kareshi","Julio","","Verano","2017","Jueves");
-
 insert into FECHA VALUES("Hajimete no gal","Julio","","Verano","2017","Miercoles");
 insert into FECHA VALUES("Isekai wa smartphone to tomo ni","Julio","","Verano","2017","Martes");
+
+insert into ANIEMS VALUES("Princess Principal","Julio","","Verano","2017","Lunes");
+insert into ANIEMS VALUES("Gamers","Julio","","Verano","2017","Jueves");
+insert into ANIEMS VALUES("Tenshi no 3P","Julio","","Verano","2017","Lunes");
 
