@@ -130,4 +130,7 @@ insert into ANIMES VALUES("Konbini Kareshi","1","Chica timida","7","1");
 
 insert into ANIEMS VALUES("Hajimete no gal","1","echii gratuito","8","1");
 insert into ANIEMS VALUES("Isekai wa smartphone to tomo ni","1","re:zero + konosuba","10","1");
+insert into ANIEMS VALUES("Princess Principal","1","Espias y ninjas lolis","10","1");
+insert into ANIEMS VALUES("Gamers","1","chica gamer","8","1");
+insert into ANIEMS VALUES("Tenshi no 3P","1","loli pop","8","1");
 
