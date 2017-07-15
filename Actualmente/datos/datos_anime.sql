@@ -128,9 +128,9 @@ insert into ANIMES VALUES("Konbini Kareshi","1","Chica timida","7","1");
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
-insert into ANIEMS VALUES("Hajimete no gal","1","echii gratuito","8","1");
-insert into ANIEMS VALUES("Isekai wa smartphone to tomo ni","1","re:zero + konosuba","10","1");
-insert into ANIEMS VALUES("Princess Principal","1","Espias y ninjas lolis","10","1");
-insert into ANIEMS VALUES("Gamers","1","chica gamer","8","1");
-insert into ANIEMS VALUES("Tenshi no 3P","1","loli pop","8","1");
-
+insert into ANIMES VALUES("Hajimete no gal","1","echii gratuito","8","1");
+insert into ANIMES VALUES("Isekai wa smartphone to tomo ni","1","re:zero + konosuba","10","1");
+insert into ANIMES VALUES("Princess Principal","1","Espias y ninjas lolis","10","1");
+insert into ANIMES VALUES("Gamers","1","chica gamer","8","1");
+insert into ANIMES VALUES("Tenshi no 3P","1","loli pop","8","1");
+insert into ANIMES VALUES("Youkoso Jitsutyoku Shijou Shugi no Kyoushitsu e","1","Escuela de elite","9","1");
