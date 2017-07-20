@@ -22,7 +22,7 @@ CREATE TABLE FECHA(
 	nombre_anime VARCHAR(50) NOT NULL,
 	mes_inicio set('Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre') NOT NULL,
 	mes_final set('Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre','En emision') NOT NULL,
-	temporada set('Invierno','Primavera','Verano','Otonio') NOT NULL,
+	temporada enum('Primavera','Verano','Otonio','Invierno') NOT NULL,
 	anio CHAR(4) NOT NULL,
 	dia_nuevo_cap enum('Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo','Finalizado')NOT NULL,
 	PRIMARY KEY (nombre_anime),
