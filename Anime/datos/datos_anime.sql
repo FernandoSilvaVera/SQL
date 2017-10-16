@@ -1,7 +1,7 @@
 /*-------------------------- 2017-------------------------*/
 /*NOMBRE	TEMPORADA	DESCRIPCION	NOTA	CAPITULOS*/
-insert into ANIMES VALUES("Zero kara hajimeru mahou no sho","1","Bruja rengar blanco","10"," 8");
-insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records","1","Best uniforme of anime","10"," 8");
+insert into ANIMES VALUES("Zero kara hajimeru mahou no sho","1","Bruja rengar blanco","10"," 8","zero-kara-hajimeru-mahou-no-sho");
+insert into ANIMES VALUES("Rokudenashi majutsu koushi to akashic records","1","Best uniforme of anime","10"," 8","B");
 insert into ANIMES VALUES("Oushitsu kyoushi Haine","1",	"Tutor real"," 9"," 7");
 insert into ANIMES VALUES("Saenai heroine no sodatekata 2","2",	"Crear juego"," 8","12");
 insert into ANIMES VALUES("Clockwork Planet","1","Mundo de relojes","10","12");
@@ -137,11 +137,4 @@ insert into ANIMES VALUES("Himouto! Umaru-chan R","2","hamster"," 9","1");
 insert into ANIMES VALUES("Shoujo Shuumatsu Ryokou","1","2 supervivientes"," 9","1");
 insert into ANIMES VALUES("Osomatsu-san 2","2","Novita","10","2");
 
-
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
-
-
-
-
-
-
