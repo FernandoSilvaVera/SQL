@@ -134,5 +134,10 @@ insert into FECHA VALUES("Omiai Aite Wa Oshiego","Octubre","","Otonio","2017","L
 insert into FECHA VALUES("Himouto! Umaru-chan R","Octubre","","Otonio","2017","Domingo","");
 insert into FECHA VALUES("Shoujo Shuumatsu Ryokou","Octubre","","Otonio","2017","Viernes","");
 insert into FECHA VALUES("Osomatsu-san 2","Octubre","","Otonio","2017","Lunes","");
+insert into FECHA VALUES("Imouto sae ireba II","Octubre","","Otonio","2017","Lunes","");
+
+
+
+
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/

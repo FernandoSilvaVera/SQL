@@ -136,5 +136,10 @@ insert into ANIMES VALUES("Omiai Aite Wa Oshiego","1","Profe - Alumno","6","2","
 insert into ANIMES VALUES("Himouto! Umaru-chan R","2","hamster"," 9","1","himouto-umaru-chan-r");
 insert into ANIMES VALUES("Shoujo Shuumatsu Ryokou","1","2 supervivientes"," 9","1","shoujo-shuumatsu-ryokou");
 insert into ANIMES VALUES("Osomatsu-san 2","2","Novita","10","2","osomatsu-san-2");
+insert into ANIMES VALUES("Imouto sae ireba II","1","Adora el siscon","8","0","imouto-sae-ireba-ii");
+
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
+
+
+
