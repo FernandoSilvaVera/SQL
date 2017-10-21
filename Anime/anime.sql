@@ -59,3 +59,28 @@ CREATE TABLE PERSONAJES(
 		ON UPDATE CASCADE ON DELETE CASCADE
 
 );
+
+CREATE TABLE USUARIOS (
+
+	id integer AUTO_INCREMENT UNIQUE, 
+	usuario VARCHAR(255) NOT NULL,
+	contrasena VARCHAR(255) NOT NULL,
+	PRIMARY KEY(usuario)
+ 
+);
+
+CREATE TABLE CUSTOM (
+
+	usuario VARCHAR(255) NOT NULL,
+	nombre_anime VARCHAR(50) NOT NULL,
+	tag VARCHAR(50) NOT NULL,
+	nota integer NOT NULL,
+	PRIMARY KEY(usuario,nombre_anime),
+	FOREIGN KEY(usuario)
+		REFERENCES USUARIOS (usuario),
+	FOREIGN KEY(nombre_anime)
+		REFERENCES ANIMES (nombre)
+  
+);
+
+
