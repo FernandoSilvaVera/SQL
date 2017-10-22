@@ -73,8 +73,8 @@ CREATE TABLE CUSTOM (
 
 	usuario VARCHAR(255) NOT NULL,
 	nombre_anime VARCHAR(50) NOT NULL,
-	tag VARCHAR(50) NOT NULL,
-	nota integer NOT NULL,
+	tag VARCHAR(50) NULL,
+	nota integer	NULL,
 	PRIMARY KEY(usuario,nombre_anime),
 	FOREIGN KEY(usuario)
 		REFERENCES USUARIOS (usuario),
