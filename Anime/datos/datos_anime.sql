@@ -105,7 +105,6 @@ insert into ANIMES VALUES("Highschool of the dead","1","Zombies"," 9","12","high
 insert into ANIMES VALUES("Himouto! Umaru-chan","1","hamster"," 9","12","himouto-umaru-chan");
 insert into ANIMES VALUES("Urara Meirocho","1","Road to bruja"," 7","12","himouto-umaru-chan-r");
 insert into ANIMES VALUES("Musaigen no Phantom World","1","Mundo con poderes"," 6","13","musaigen-no-phantom-world");
-insert into ANIMES VALUES("Lance N' Masques","1","Caballeros"," 8","12","lance-n-masques");
 insert into ANIMES VALUES("Haruchika","1","Chica flauta detective"," 7","12","haruchika-haruta-to-chika-wa-seishun-suru");
 insert into ANIMES VALUES("Mob Psycho 100","1","guiños saitama"," 7","12","mob-psycho-100");
 insert into ANIMES VALUES("Denpa Onna to Seishun Otoko","1","Chica ovni"," 8","12","denpa-onna-to-seishun-otoko");
@@ -122,7 +121,6 @@ insert into ANIMES VALUES("Dragon ball GT","4","Koku niño 2"," 6","64","dragon-
 insert into ANIMES VALUES("Little Witch Academia","1","Road to bruja"," 10","24","little-witch-academia");
 insert into ANIMES VALUES("Nagi no Asukara","1","Amor bajo el agua"," 8","26","nagi-no-asukara");
 insert into ANIMES VALUES("Made in abyss","1","Grieta","10","1","made-in-abyss");
-insert into ANIMES VALUES("Knight`s & Magic","1","Programador mecha","9","2","knight-s-magic");
 insert into ANIMES VALUES("18IF","1","Juego sueño brujas","10","1","18if");
 insert into ANIMES VALUES("Konbini Kareshi","1","Chica timida","7","1","konbini-kareshi");
 insert into ANIMES VALUES("Hajimete no gal","1","echii gratuito","8","1","hajimete-no-gal");

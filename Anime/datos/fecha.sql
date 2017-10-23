@@ -101,7 +101,6 @@ insert into FECHA VALUES("Highschool of the dead","Julio","Septiembre","Verano",
 insert into FECHA VALUES("Himouto! Umaru-chan","Julio","Septiembre","Verano","2015","Lunes","Finalizado");
 insert into FECHA VALUES("Urara Meirocho","Enero","Marzo","Invierno","2016","Jueves","Finalizado");
 insert into FECHA VALUES("Musaigen no Phantom World","Enero","Marzo","Invierno","2015","Jueves","Finalizado");
-insert into FECHA VALUES("Lance N' Masques","Octubre","Diciembre","Otonio","2015","Jueves","Finalizado");
 insert into FECHA VALUES("Haruchika","Enero","Marzo","Invierno","2016","Miercoles","Finalizado");
 insert into FECHA VALUES("Mob Psycho 100","Julio","Septiembre","Verano","2016","Martes","Finalizado");
 insert into FECHA VALUES("Denpa Onna to Seishun Otoko","Abril","Julio","Primavera","2011","Viernes","Finalizado");
@@ -120,7 +119,6 @@ insert into FECHA VALUES("Nagi no Asukara","Octubre","Abril","Otonio","2013","Ju
 insert into FECHA VALUES("Made in abyss","Julio","","Verano","2017","Sabado","Finalizado");
 insert into FECHA VALUES("Kore wa Zombie Desu ka?","Enero","Marzo","Invierno","2010","Martes","Finalizado");
 insert into FECHA VALUES("Kore wa Zombie Desu ka? of the dead","Abril","Junio","Primavera","2012","Viernes","Finalizado");
-insert into FECHA VALUES("Knight`s & Magic","Julio","","Verano","2017","Domingo","Finalizado");
 insert into FECHA VALUES("18IF","Julio","","Verano","2017","Viernes","Finalizado");
 insert into FECHA VALUES("Konbini Kareshi","Julio","","Verano","2017","Jueves","Finalizado");
 insert into FECHA VALUES("Hajimete no gal","Julio","","Verano","2017","Miercoles","Finalizado");
