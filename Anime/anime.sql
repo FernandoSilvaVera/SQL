@@ -76,12 +76,26 @@ CREATE TABLE CUSTOM (
 	nombre_anime VARCHAR(50) NOT NULL,
 	tag VARCHAR(50) NULL,
 	nota integer	NULL,
+	estado VARCHAR(50) NULL,
 	PRIMARY KEY(usuario,nombre_anime),
 	FOREIGN KEY(usuario)
 		REFERENCES USUARIOS (usuario),
 	FOREIGN KEY(nombre_anime)
 		REFERENCES ANIMES (nombre)
   
+);
+
+CREATE TABLE COMENTARIOS (
+
+	id integer AUTO_INCREMENT,
+	nombre_anime VARCHAR(255) NOT NULL,
+	capitulo integer NOT NULL,
+	usuario VARCHAR(255) NOT NULL,
+	comentario VARCHAR(255) NOT NULL,
+	PRIMARY KEY(id,usuario),
+	FOREIGN KEY(usuario)
+		REFERENCES USUARIOS (usuario)
+
 );
 
 
