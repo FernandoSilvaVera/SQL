@@ -37,11 +37,10 @@ CREATE TABLE FECHA(
 
 CREATE TABLE GENERO(
 
-	nombre_anime VARCHAR(50) NOT NULL,
-	principal VARCHAR(30) NOT NULL,
-	secundario VARCHAR(30) NULL,
-	PRIMARY KEY (nombre_anime),
-	FOREIGN KEY (nombre_anime)
+	nombre VARCHAR(50) NOT NULL,
+	genero set("Accion","Aventura","Comedia","Demonios","Deportes","Drama","Echii","Escolares","Fantasía","Gore","Harem","Juegos","Mecha","Misterio","Musica","Psicologico","Recuerdos de la vida","Romance","Vampiros","Yuri","Lolis") NOT NULL,
+	PRIMARY KEY (nombre,genero),
+	FOREIGN KEY (nombre)
 		REFERENCES ANIMES (nombre)
 		ON UPDATE CASCADE ON DELETE CASCADE
 
@@ -66,6 +65,7 @@ CREATE TABLE USUARIOS (
 	id integer AUTO_INCREMENT UNIQUE, 
 	usuario VARCHAR(255) NOT NULL,
 	contrasena VARCHAR(255) NOT NULL,
+	imagen VARCHAR(255) DEFAULT "sagiri",
 	PRIMARY KEY(usuario)
  
 );
@@ -97,5 +97,3 @@ CREATE TABLE COMENTARIOS (
 		REFERENCES USUARIOS (usuario)
 
 );
-
-
