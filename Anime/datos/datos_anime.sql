@@ -138,18 +138,7 @@ insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Imouto sae 
 
 /*ESTOS PUEDEN ESTAR MAL*/
 
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Inuyashiki","1","-","0","0","Inuyashiki");
 insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Boku no kanojo ga majime sugiru shobitch na ken","1","Novia se esfuerza,peli blanca","7","0","boku-no-kanojo-ga-majime-sugiru-shobitch-na-ken");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Evil or live","1","-","8","0","evil-or-live");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Wake up,girls! Shin Shou","4","Love live","6","0","wake-up-girls-shin-shou");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Anime Gataris","1","-","0","0","anime-gataris");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Houseki no kuni","1","-","0","0","houseki-no-kun");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Mahoutsukai no yome","1","0","0","0","mahoutsukai-no-yome");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Monster Strike:Kieyuku echuu-hen","1","Adora el siscon","8","0","monster-strike-kieyuku-uchuu-hen");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Blend s","1","Adora el siscon","8","0","Blend-s");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("hoozuki no reitetsu 2","1","Adora el siscon","8","0","hoozuki-no-reitetsu-2");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Garo:Vanishing line","1","Adora el siscon","8","0","garo-vanishing-line");
-insert into ANIMES (nombre,temporada,tag,nota,capitulos,web) VALUES("Imouto sae ireba II","1","Adora el siscon","8","0","imouto-sae-ireba-ii");
 
 /*----------------------POR METER EN LAS OTRAS TABLAS--------------------*/
 
