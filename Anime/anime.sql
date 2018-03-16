@@ -38,7 +38,7 @@ CREATE TABLE FECHA(
 CREATE TABLE GENERO(
 
 	nombre VARCHAR(50) NOT NULL,
-	genero set("Accion","Aventura","Comedia","Demonios","Deportes","Drama","Echii","Escolares","Fantasía","Gore","Harem","Juegos","Mecha","Misterio","Musica","Psicologico","Recuerdos de la vida","Romance","Vampiros","Yuri","Lolis") NOT NULL,
+	genero set("Accion","Cocina","Aventura","Seinen","Shonen","Comedia","Demonios","Deportes","Drama","Echii","Escolares","Fantasía","Gore","Harem","Juegos","Mecha","Misterio","Musica","Psicologico","Recuerdos de la vida","Romance","Vampiros","Yuri","Lolis") NOT NULL,
 	PRIMARY KEY (nombre,genero),
 	FOREIGN KEY (nombre)
 		REFERENCES ANIMES (nombre)

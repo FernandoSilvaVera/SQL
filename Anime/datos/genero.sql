@@ -85,62 +85,314 @@ insert into GENERO VALUES("Aho Girl","Comedia");
 
 
 insert into GENERO VALUES("Tsurezure Children","Comedia");
+
+
 insert into GENERO VALUES("Isekai Shoukudou","Fantasía");
+insert into GENERO VALUES("Isekai Shoukudou","Cocina");
+insert into GENERO VALUES("Isekai Shoukudou","Aventura");
+
+
 insert into GENERO VALUES("Koi to Uso","Romance");
+insert into GENERO VALUES("Koi to Uso","Aventura");
+insert into GENERO VALUES("Koi to Uso","Comedia");
+insert into GENERO VALUES("Koi to Uso","Escolares");
+
+
 insert into GENERO VALUES("Keppeki Danshi! Aoyama-kun","Deportes");
+insert into GENERO VALUES("Keppeki Danshi! Aoyama-kun","Aventura");
+
+
 insert into GENERO VALUES("Kakegurui","Juegos");
+insert into GENERO VALUES("Kakegurui","Aventura");
+insert into GENERO VALUES("Kakegurui","Escolares");
+
+
 insert into GENERO VALUES("Akiba`s strip","Juegos");
+insert into GENERO VALUES("Akiba`s strip","Aventura");
+
+
 insert into GENERO VALUES("Angel Beats","Recuerdos de la vida");
+insert into GENERO VALUES("Angel Beats","Aventura");
+insert into GENERO VALUES("Angel Beats","Misterio");
+insert into GENERO VALUES("Angel Beats","Juegos");
+
+
 insert into GENERO VALUES("Another","Misterio");
+insert into GENERO VALUES("Another","Gore");
+insert into GENERO VALUES("Another","Misterio");
+insert into GENERO VALUES("Another","Accion");
+
+
 insert into GENERO VALUES("Assassination Classroom","Comedia");
+insert into GENERO VALUES("Assassination Classroom","Shonen");
+insert into GENERO VALUES("Assassination Classroom","Recuerdos de la vida");
+insert into GENERO VALUES("Assassination Classroom","Misterio");
+
+
 insert into GENERO VALUES("Assassination Classroom 2","Comedia");
+insert into GENERO VALUES("Assassination Classroom 2","Shonen");
+insert into GENERO VALUES("Assassination Classroom 2","Recuerdos de la vida");
+insert into GENERO VALUES("Assassination Classroom 2","Misterio");
+
+
 insert into GENERO VALUES("Baby princess 3d","lolis");
+insert into GENERO VALUES("Baby princess 3d","Aventura");
+insert into GENERO VALUES("Baby princess 3d","Comedia");
+insert into GENERO VALUES("Baby princess 3d","Harem");
+
+
 insert into GENERO VALUES("Black Bullet","Aventura");
+insert into GENERO VALUES("Black Bullet","lolis");
+insert into GENERO VALUES("Black Bullet","shonen");
+insert into GENERO VALUES("Black Bullet","Comedia");
+
+
 insert into GENERO VALUES("Boku dake ga inai machi","Misterio");
+insert into GENERO VALUES("Boku dake ga inai machi","Aventura");
+insert into GENERO VALUES("Boku dake ga inai machi","Drama");
+
+
+insert into GENERO VALUES("Boku no hero","Accion");
 insert into GENERO VALUES("Boku no hero","Aventura");
+insert into GENERO VALUES("Boku no hero","Shonen");
+insert into GENERO VALUES("Boku no hero","Comedia");
+
+
 insert into GENERO VALUES("Charlotte","Misterio");
+insert into GENERO VALUES("Charlotte","Aventura");
+insert into GENERO VALUES("Charlotte","Escolares");
+insert into GENERO VALUES("Charlotte","Juegos");
+insert into GENERO VALUES("Charlotte","Recuerdos de la vida");
+insert into GENERO VALUES("Charlotte","lolis");
+insert into GENERO VALUES("Charlotte","Romance");
+
+
 insert into GENERO VALUES("Choujingen game neptune","Juegos");
+insert into GENERO VALUES("Choujingen game neptune","Aventura");
+insert into GENERO VALUES("Choujingen game neptune","Comedia");
+insert into GENERO VALUES("Choujingen game neptune","lolis");
+
+
 insert into GENERO VALUES("Date a live","Harem");
+insert into GENERO VALUES("Date a live","Aventura");
+insert into GENERO VALUES("Date a live","Comedia");
+insert into GENERO VALUES("Date a live","Juegos");
+
+
 insert into GENERO VALUES("Date a live 2","Harem");
+insert into GENERO VALUES("Date a live 2","Aventura");
+insert into GENERO VALUES("Date a live 2","Comedia");
+insert into GENERO VALUES("Date a live 2","Juegos");
+
+
 insert into GENERO VALUES("Death parade","Misterio");
+insert into GENERO VALUES("Death parade","Gore");
+insert into GENERO VALUES("Death parade","Juegos");
+insert into GENERO VALUES("Death parade","Psicologico");
+insert into GENERO VALUES("Death parade","Recuerdos de la vida");
+
+
 insert into GENERO VALUES("Kono subarashii","Comedia");
+insert into GENERO VALUES("Kono subarashii","Aventura");
+insert into GENERO VALUES("Kono subarashii","Juegos");
+
+
 insert into GENERO VALUES("Kono subarashii 2","Comedia");
+insert into GENERO VALUES("Kono subarashii 2","Aventura");
+insert into GENERO VALUES("Kono subarashii 2","Juegos");
+
+
 insert into GENERO VALUES("Gabriel Dropout","Comedia");
+insert into GENERO VALUES("Gabriel Dropout","Aventura");
+
+
 insert into GENERO VALUES("Watamote","Comedia");
+insert into GENERO VALUES("Watamote","Aventura");
+
+
 insert into GENERO VALUES("Valkyrie Drive","Yuri");
+insert into GENERO VALUES("Valkyrie Drive","Accion");
+insert into GENERO VALUES("Valkyrie Drive","Aventura");
+insert into GENERO VALUES("Valkyrie Drive","Echii");
+
+
 insert into GENERO VALUES("Kiss x sis","Harem");
+insert into GENERO VALUES("Kiss x sis","Aventura");
+insert into GENERO VALUES("Kiss x sis","Romance");
+insert into GENERO VALUES("Kiss x sis","Echii");
+insert into GENERO VALUES("Kiss x sis","Escolares");
+
+
 insert into GENERO VALUES("Kono Naka","Harem");
+insert into GENERO VALUES("Kono Naka","Aventura");
+insert into GENERO VALUES("Kono Naka","Comedia");
+insert into GENERO VALUES("Kono Naka","Romance");
+
+
 insert into GENERO VALUES("One Punch Man","Accion");
+insert into GENERO VALUES("One Punch Man","Shonen");
+insert into GENERO VALUES("One Punch Man","Comedia");
+
+
 insert into GENERO VALUES("Monster Musume","Harem");
+insert into GENERO VALUES("Monster Musume","Aventura");
+insert into GENERO VALUES("Monster Musume","Aventura");
+insert into GENERO VALUES("Monster Musume","lolis");
+
+
 insert into GENERO VALUES("Overloard","Juegos");
+insert into GENERO VALUES("Overloard","Aventura");
+insert into GENERO VALUES("Overloard","Shonen");
+
+
 insert into GENERO VALUES("Sakamoto","Comedia");
+insert into GENERO VALUES("Sakamoto","Aventura");
+
+
 insert into GENERO VALUES("Kabaneri","Accion");
+insert into GENERO VALUES("Kabaneri","Aventura");
+insert into GENERO VALUES("Kabaneri","Shonen");
+
+
 insert into GENERO VALUES("Kiniro Mosaic","lolis");
+insert into GENERO VALUES("Kiniro Mosaic","Recuerdos de la vida");
+insert into GENERO VALUES("Kiniro Mosaic","Aventura");
+insert into GENERO VALUES("Kiniro Mosaic","Escolares");
+
+
 insert into GENERO VALUES("Dagashi Kashi","Aventura");
+insert into GENERO VALUES("Dagashi Kashi","Cocina");
+
+
 insert into GENERO VALUES("Trinity Seven","Harem");
+insert into GENERO VALUES("Trinity Seven","Romance");
+insert into GENERO VALUES("Trinity Seven","Aventura");
+
+
 insert into GENERO VALUES("Sword art online","Juegos");
+insert into GENERO VALUES("Sword art online","Aventura");
+insert into GENERO VALUES("Sword art online","Shonen");
+
+
 insert into GENERO VALUES("Sword art online 2","Juegos");
+insert into GENERO VALUES("Sword art online 2","Aventura");
+insert into GENERO VALUES("Sword art online 2","Shonen");
+
+
 insert into GENERO VALUES("Shimoneta","Echii");
+insert into GENERO VALUES("Shimoneta","Aventura");
+
+
 insert into GENERO VALUES("Sankarea","Misterio");
+insert into GENERO VALUES("Sankarea","Recuerdos de la vida");
+insert into GENERO VALUES("Sankarea","Aventura");
+insert into GENERO VALUES("Sankarea","Romance");
+
+
 insert into GENERO VALUES("Mirai Nikki","Misterio");
+insert into GENERO VALUES("Mirai Nikki","Juegos");
+insert into GENERO VALUES("Mirai Nikki","Aventura");
+insert into GENERO VALUES("Mirai Nikki","Romance");
+
+
 insert into GENERO VALUES("Rewrite","Misterio");
+insert into GENERO VALUES("Rewrite","Aventura");
+insert into GENERO VALUES("Rewrite","Harem");
+insert into GENERO VALUES("Rewrite","Comedia");
+
+
 insert into GENERO VALUES("Rewrite:Moon and terra","Misterio");
+insert into GENERO VALUES("Rewrite:Moon and terra","Accion");
+
+
 insert into GENERO VALUES("Re:Zero","Juegos");
+insert into GENERO VALUES("Re:Zero","Misterio");
+insert into GENERO VALUES("Re:Zero","Aventura");
+insert into GENERO VALUES("Re:Zero","Romance");
+
+
 insert into GENERO VALUES("Rampo Kitan: Game of Laplace","Juegos");
+insert into GENERO VALUES("Rampo Kitan: Game of Laplace","Aventura");
+insert into GENERO VALUES("Rampo Kitan: Game of Laplace","Misterio");
+
+
 insert into GENERO VALUES("Outbreak Company","Juegos");
+insert into GENERO VALUES("Outbreak Company","Fantasía");
+insert into GENERO VALUES("Outbreak Company","Harem");
+insert into GENERO VALUES("Outbreak Company","lolis");
+
+
 insert into GENERO VALUES("Punchline","Echii");
+insert into GENERO VALUES("Punchline","Aventura");
+insert into GENERO VALUES("Punchline","Misterio");
+
+
 insert into GENERO VALUES("Prison school","Echii");
+insert into GENERO VALUES("Prison school","Aventura");
+insert into GENERO VALUES("Prison school","Comedia");
+
+
 insert into GENERO VALUES("Machine Doll wa Kizutsukanai","Fantasía");
+insert into GENERO VALUES("Machine Doll wa Kizutsukanai","Aventura");
+insert into GENERO VALUES("Machine Doll wa Kizutsukanai","Escolares");
+
+
 insert into GENERO VALUES("Noragami","Comedia");
+insert into GENERO VALUES("Noragami","Aventura");
+insert into GENERO VALUES("Noragami","Shonen");
+insert into GENERO VALUES("Noragami","Romance");
+
+
 insert into GENERO VALUES("Noragami Aragoto","Comedia");
+insert into GENERO VALUES("Noragami Aragoto","Shonen");
+insert into GENERO VALUES("Noragami Aragoto","Romance");
+
+
 insert into GENERO VALUES("Osomatsu-san","Comedia");
+insert into GENERO VALUES("Osomatsu-san","Aventura");
+
+
 insert into GENERO VALUES("Sakura-so no Pet na Kanojo","Recuerdos de la vida");
+insert into GENERO VALUES("Sakura-so no Pet na Kanojo","Aventura");
+insert into GENERO VALUES("Sakura-so no Pet na Kanojo","Comedia");
+insert into GENERO VALUES("Sakura-so no Pet na Kanojo","Romance");
+
+
 insert into GENERO VALUES("Seirei Tsukai no Bladedance","lolis");
+insert into GENERO VALUES("Seirei Tsukai no Bladedance","Aventura");
+insert into GENERO VALUES("Seirei Tsukai no Bladedance","Escolares");
+insert into GENERO VALUES("Seirei Tsukai no Bladedance","Harem");
+insert into GENERO VALUES("Seirei Tsukai no Bladedance","Romance");
+
+
 insert into GENERO VALUES("No Game No Life","Juegos");
+insert into GENERO VALUES("No Game No Life","lolis");
+insert into GENERO VALUES("No Game No Life","Aventura");
+insert into GENERO VALUES("No Game No Life","Fantasía");
+
+
 insert into GENERO VALUES("Netoge no Yome wa Onna","Juegos");
+insert into GENERO VALUES("Netoge no Yome wa Onna","Aventura");
+insert into GENERO VALUES("Netoge no Yome wa Onna","Harem");
+insert into GENERO VALUES("Netoge no Yome wa Onna","Romance");
+
+
 insert into GENERO VALUES("Ore ga Ojo-sama Gakko","Harem");
+insert into GENERO VALUES("Ore ga Ojo-sama Gakko","lolis");
+insert into GENERO VALUES("Ore ga Ojo-sama Gakko","Aventura");
+insert into GENERO VALUES("Ore ga Ojo-sama Gakko","Comedia");
+
+
 insert into GENERO VALUES("Yamada-kun to 7-nin no Majo","Aventura");
+insert into GENERO VALUES("Yamada-kun to 7-nin no Majo","Romance");
+insert into GENERO VALUES("Yamada-kun to 7-nin no Majo","Aventura");
+insert into GENERO VALUES("Yamada-kun to 7-nin no Majo","Misterio");
+
+
 insert into GENERO VALUES("Plastic Nee-san","Comedia");
+insert into GENERO VALUES("Plastic Nee-san","Aventura");
+
+
 insert into GENERO VALUES("Shokugeki no Soma","Comedia");
 insert into GENERO VALUES("Shokugeki no Souma: Ni no Sara","Comedia");
 insert into GENERO VALUES("Kuroko no basket","Deportes");
@@ -199,7 +451,6 @@ insert into GENERO VALUES("Princess Principal","lolis");
 insert into GENERO VALUES("Gamers","Juegos");
 insert into GENERO VALUES("Tenshi no 3P","lolis");
 insert into GENERO VALUES("Youkoso Jitsutyoku Shijou Shugi no Kyoushitsu e","Escolares");
-
 insert into GENERO VALUES("Omiai Aite Wa Oshiego","Romance");
 insert into GENERO VALUES("Himouto! Umaru-chan R","Comedia");
 insert into GENERO VALUES("Shoujo Shuumatsu Ryokou","Aventura");
