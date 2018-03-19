@@ -1,4 +1,3 @@
-drop database ANIME;
 source anime.sql;
 
 source ./datos/datos_anime.sql;
